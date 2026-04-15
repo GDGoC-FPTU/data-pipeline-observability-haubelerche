@@ -1,6 +1,6 @@
 # Báo cáo thí nghiệm: Ảnh hưởng của chất lượng dữ liệu đến AI Agent
 
-**Student ID:** AI20K-115  
+**Student ID:** 2A202600115 
 **Name:** Lương Thanh Hậu  
 **Date:** 2026-04-15
 
@@ -21,9 +21,9 @@ Kết quả kiểm thử tự động:
 
 ---
 
-## 2. Phân tích và nhận xét
+## 2. Phan tich va nhan xet
 
-### Vì sao Agent trả lời sai với Garbage Data?
+### Tai sao Agent tra loi sai voi Garbage Data?
 
 Trong bộ dữ liệu nhiễu, xuất hiện bản ghi có giá trị bất thường (`Nuclear Reactor` giá `999999`) nên Agent bị kéo theo tín hiệu sai.  
 Ngoài ra, dữ liệu bẩn thường đi kèm trùng lặp, sai kiểu dữ liệu hoặc thiếu trường thông tin, dẫn đến quá trình tổng hợp/so sánh không còn phản ánh đúng thực tế.  
